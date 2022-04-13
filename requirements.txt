@@ -1,0 +1,6 @@
+numpy
+pandas==1.1.5
+interpret==0.2.2
+xgboost
+interpret-community
+lightgbm
